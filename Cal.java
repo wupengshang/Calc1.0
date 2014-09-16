@@ -75,7 +75,7 @@ public class Cal{
                                     break;
                                     //symbol = 0;
                                 }
-                                symbol = 0;
+                                //symbol = 0;
                             break;
                         }
                     }
